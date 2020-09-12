@@ -1,0 +1,6 @@
+е№жа
+104.81	29.12
+2
+Name	x	y	C	phi	gamma	slope	lithoClass
+MYG016	140.621	38.0085	-1	-1	-1	-1	4
+MYG016_groundtruth	140.621	38.0085	-1	-1	-1	-1	4
