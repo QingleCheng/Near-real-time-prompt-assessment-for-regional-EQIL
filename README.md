@@ -1,6 +1,6 @@
 # Near-real-time-prompt-assessment-for-regional-EQIL
 Near-real-time prompt assessment for regional EQIL is an open-source package providing a method to perform the near-real-time prompt assessment for regional earthquake-induced landslides
-It was developed in python, C++ and MATLAB language. And MATLAB code is compatible with MATLAB R2014a and subsequent versions.
+It was developed in python, C++ and MATLAB language. And MATLAB code is provided by Montejo and Suarez (2013), which is compatible with MATLAB R2014a and subsequent versions
 
 To launch Near-real-time prompt assessment for regional EQIL:
 - Use python to run the script Four.py to calculate the response spectrum of the ground motion reocrds.
