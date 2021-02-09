@@ -17,8 +17,8 @@ Please report any error, bug or suggestion to chengqingle@gmail.com
 
 Reference cited:
 
-Cheng Q L, Yuan T, Lu X Z, Huang Y L, Ye L P. Near-real-time prompt assessment for regional earthquake-induced landslides using recorded ground motions. Computers & Geosciences. doi:10.1016/j.cageo.2021.104709.
+Cheng Q L, Yuan T, Lu X Z, Huang Y L, Ye L P. 2021. Near-real-time prompt assessment for regional earthquake-induced landslides using recorded ground motions. Computers & Geosciences. doi:10.1016/j.cageo.2021.104709.
 
-Lu, X.Z., Cheng, Q.L., Tian, Y., Huang, Y.L., 2021. Regional ground‐motion simulation using recorded ground motions. Bulletin of the Seismological Society of America. doi:10.1785/0120200243
+Lu, X.Z., Cheng, Q.L., Tian, Y., Huang, Y.L., 2021. Regional ground‐motion simulation using recorded ground motions. Bulletin of the Seismological Society of America. doi:10.1785/0120200243.
 
 Montejo, L. A., Suarez, L. E., 2013. An improved CWT-based algorithm for the generation of spectrum-compatible records, International Journal of Advanced Structural Engineering 5(1), 26. DOI: 10.1186/2008-6695-5-26.
